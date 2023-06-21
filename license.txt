@@ -1,0 +1,5 @@
+Licença Creative Commons Atribuição-Uso Não-Comercial 4.0 Internacional (CC-BY-NC 4.0)
+
+Esta é uma licença Creative Commons que permite o uso, cópia e distribuição do código, desde que seja dado crédito ao autor original e que não seja utilizado para fins comerciais.
+
+Você pode encontrar o texto completo da licença em: https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
